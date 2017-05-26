@@ -1,0 +1,20 @@
+#d12welcome {
+	float:none;
+	padding: 0.5em;
+	margin: 0.5em auto;
+	font-size: 1em;
+	border: solid 2px #aaf;
+	color: #009;
+	text-align: center;
+}
+#d12welcome p.first {
+	font-size: 1.25em;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+#d12welcome p.first a {
+	text-decoration: none;
+}
+#d12welcome p {
+	margin: 0.2em;
+}
